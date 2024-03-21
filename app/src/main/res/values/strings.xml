@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences_SamPak</string>
+    <string name="defaultEditText">insert text here</string>
+    <string name="buttonText">press me</string>
+</resources>
